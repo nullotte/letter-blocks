@@ -1,6 +1,6 @@
 type: Wall
 category: defense
-size: 4
+size: 2
 solid: false
 customShadow: true
 requirements: [
