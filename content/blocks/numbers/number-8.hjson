@@ -1,0 +1,9 @@
+type: Wall
+category: defense
+size: 4
+solid: false
+customShadow: true
+requirements: [
+    graphite/20
+]
+research: number-4
