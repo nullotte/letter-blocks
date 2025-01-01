@@ -1,0 +1,8 @@
+name: "letter-blocks"
+version: "1.0"
+minGameVersion: 146
+
+displayName: "Letter Blocks"
+author: "Nullotte"
+subtitle: "the writing on the wall."
+description: "Adds letter blocks for writing text and messages"
